@@ -94,6 +94,18 @@ COUNT_TEST js-three-quarters-loader
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
+4. Add to **Region Display Selector**
+
+Title of your Region must look like 
+
+```
+<div class="COUNT_RECALL js-three-quarters-loader">Test Label</div>
+```
+
+<p align="center">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+</p>
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
