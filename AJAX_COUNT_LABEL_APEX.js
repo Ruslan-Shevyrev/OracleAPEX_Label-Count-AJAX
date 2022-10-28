@@ -94,7 +94,6 @@ function addNavigationBadge(serviceName) {
 						removeBadgeLoader(itemClass);
 
 						removeBadgeTabsLoader(itemClass);
-						
 					}
 				}
 			},
