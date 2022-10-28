@@ -94,3 +94,7 @@
 .a-TreeView-badge {
     min-width: 20px !important;
 }
+
+.apex-rds a span {
+    margin: 0 20px 0 0;
+}
