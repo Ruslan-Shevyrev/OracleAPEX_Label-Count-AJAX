@@ -29,7 +29,7 @@ to your project.
 
 :exclamation: **Point:** ***"On Load: After Footer (page template footer)"***
 
-Code
+**Code:**
 
 ```
 BEGIN
