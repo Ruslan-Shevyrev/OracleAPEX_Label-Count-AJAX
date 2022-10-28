@@ -113,7 +113,7 @@ COUNT_TEST js-three-quarters-loader
 Title of your Region must look like 
 
 ```
-<div class="COUNT_RECALL js-three-quarters-loader">Test Label</div>
+<div class="COUNT_TEST js-three-quarters-loader">Test Label</div>
 ```
 
 <p align="center">
@@ -122,7 +122,7 @@ Title of your Region must look like
 
 ## WARNING
 
-Do not add same class to Navigation Menu and Region Display Selector at the same time.
+Do not add the same class to Navigation Menu and Region Display Selector at the same time.
 
 <table>
   <tr>
