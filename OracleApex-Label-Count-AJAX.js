@@ -2,20 +2,20 @@ function addNavigationBadgeLoader(){
 
 	setTimeout(function(){
 
-		var navTabs = document.querySelector('.apex-rds-container');
+		let navTabs = document.querySelector('.apex-rds-container');
 
 		if (navTabs) {
 			
-			var navTabsList = navTabs.querySelectorAll('ul > li .js-three-quarters-loader');
+			let navTabsList = navTabs.querySelectorAll('ul > li .js-three-quarters-loader');
 
-			for (var i = 0; i < navTabsList.length; i++) {
+			for (let i = 0; i < navTabsList.length; i++) {
 				navTabsList[i].insertAdjacentHTML('beforeend', '<span class="three-quarters-loader"></span>');
 			}
 		}
 
-		var navList = document.querySelectorAll('.js-three-quarters-loader + a');
+		let navList = document.querySelectorAll('.js-three-quarters-loader + a');
 
-		for (var i = 0; i < navList.length; i++) {
+		for (let i = 0; i < navList.length; i++) {
 			navList[i].insertAdjacentHTML('beforeend', '<span class="three-quarters-loader"></span>');
 		}
 
@@ -26,7 +26,7 @@ function removeBadgeLoader(itemClass){
 
 	setTimeout(function(){
 
-		var loaderElement = document.querySelector('.' + itemClass + ' + a .three-quarters-loader');
+		let loaderElement = document.querySelector('.' + itemClass + ' + a .three-quarters-loader');
 
 		if (loaderElement){
 
@@ -43,7 +43,8 @@ function removeBadgeLoader(itemClass){
 function removeBadgeTabsLoader(itemClass) {
 
 	setTimeout(function(){
-		var loaderElement = document.querySelector('.' + itemClass + ' > .three-quarters-loader');
+
+		let loaderElement = document.querySelector('.' + itemClass + ' > .three-quarters-loader');
 
 		if (loaderElement){
 
@@ -59,28 +60,30 @@ function removeBadgeTabsLoader(itemClass) {
 
 
 function addNavigationBadge(serviceName) {
-
 	apex.server.process(
 		serviceName,
 		{
-			x01: 1
 		},
 		{
 			success: function (pData) {
-			
-				var json = JSON.parse(pData);
+
+				let json = JSON.parse(pData);
 
 				if (json.length && json.length == 0) {
 					return false;
 				}
 
-				for (var i = 0; i < json.length; i++) {
+				for (let i = 0; i < json.length; i++) {
 
-					for (var itemClass in json[i]) {
+					for (let itemClass in json[i]) {
+
+                    removeBadgeLoader(itemClass);
+
+				    removeBadgeTabsLoader(itemClass);
 
 						if (json[i][itemClass] > 0) {
 
-							var htmlBadge = '<span class="a-TreeView-badge">' + json[i][itemClass] + '</span>';
+							let htmlBadge = '<span class="a-TreeView-badge">' + json[i][itemClass] + '</span>';
 
 							if (document.querySelector('.' + itemClass + ' + a')) {
 								document.querySelector('.' + itemClass + ' + a').insertAdjacentHTML('beforeend', htmlBadge);
@@ -90,10 +93,6 @@ function addNavigationBadge(serviceName) {
 								document.querySelector('.' + itemClass).insertAdjacentHTML('beforeend', htmlBadge);
 							}
 						}
-
-						removeBadgeLoader(itemClass);
-
-						removeBadgeTabsLoader(itemClass);
 					}
 				}
 			},
