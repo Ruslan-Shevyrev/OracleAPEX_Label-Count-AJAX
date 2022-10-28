@@ -117,7 +117,7 @@ Title of your Region must look like
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/7.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 ## WARNING
