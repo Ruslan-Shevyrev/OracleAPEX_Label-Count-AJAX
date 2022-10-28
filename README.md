@@ -98,7 +98,7 @@ END;
 
 3. Add to **Navigation Menu**
 
-Add to ***Image/Class*** your class and js-three-quarters-loader
+Add to ***Image/Class*** your class from step 1 and js-three-quarters-loader
 
 ```
 COUNT_TEST js-three-quarters-loader
