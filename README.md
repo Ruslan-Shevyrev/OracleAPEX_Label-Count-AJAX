@@ -17,7 +17,7 @@ Adds a label with a number next to a ***Navigation Menu*** item or ***Region Dis
 1. Add\
 **OracleApex-Label-Count-AJAX.js**\
 **OracleApex-Label-Count-AJAX.css**\
-to your project.
+to your application.
 
 2. Create Application Process
 
