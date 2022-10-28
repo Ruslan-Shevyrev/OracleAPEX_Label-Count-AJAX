@@ -21,13 +21,13 @@ to your project.
 
 2. Create Application Process
 
-***For Example SET_AJAX***
+***For Example: SET_AJAX***
 
 <p align="center">
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/1.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
-**Point:** ***On Load: After Footer (page template footer)***
+:grey_exclamation: **Point:** ***On Load: After Footer (page template footer)***
 
 Code
 
@@ -54,7 +54,7 @@ END;
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/3.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
-**Point:** ***Ajax Callback: Run this application process when requested by a page process***
+:grey_exclamation: **Point:** ***Ajax Callback: Run this application process when requested by a page process***
 
 Code
 
