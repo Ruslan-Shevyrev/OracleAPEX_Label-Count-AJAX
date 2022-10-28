@@ -120,6 +120,10 @@ Title of your Region must look like
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
+## WARNING
+
+Do not add same class to Navigation Menu and Region Display Selector at the same time.
+
 <table>
   <tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
