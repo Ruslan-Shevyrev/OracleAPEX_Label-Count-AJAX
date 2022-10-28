@@ -27,7 +27,7 @@ to your project.
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/1.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
-***On Load: After Footer (page template footer)***
+**Point:** ***On Load: After Footer (page template footer)***
 
 Code
 
@@ -54,7 +54,7 @@ END;
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/3.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
-***Ajax Callback: Run this application process when requested by a page process***
+**Point:** ***Ajax Callback: Run this application process when requested by a page process***
 
 Code
 
