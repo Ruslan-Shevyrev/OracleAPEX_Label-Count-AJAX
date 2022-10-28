@@ -1,11 +1,16 @@
 # OracleApex-Label-Count-AJAX
 
-Adds a label with a number next to a ***Navigation Menu*** item or ***Region Display Selector*** using **AJAX**
+Adds a label with a number next to a ***Navigation Menu*** item or ***Region Display Selector*** using **AJAX**.
 
-***Navigation Menu***
-<p align="left">
+| ***Navigation Menu***       | <p align="left">
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/1.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="150" title="Example Navigation Menu">
-</p>
+</p> |
+
+
+| ***Region Display Selector***      | <p align="left">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/2.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Example Region Display Selector">
+</p>|
+
 
 ***Region Display Selector***
 <p align="left">
@@ -48,7 +53,7 @@ END;
 ## Use
 1. Create Application Process (AJAX)
 
-***For Example COUNT_TEST***
+***For Example: COUNT_TEST***
 
 <p align="center">
   <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/3.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
