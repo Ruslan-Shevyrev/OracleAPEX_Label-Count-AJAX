@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/OracleApex-Label-Count-AJAX.gif" width="350" title="RestCopyFile">
+</p>
+
 # OracleApex-Label-Count-AJAX
 
 Adds a label with a number next to a ***Navigation Menu*** item or ***Region Display Selector*** using **AJAX**.
