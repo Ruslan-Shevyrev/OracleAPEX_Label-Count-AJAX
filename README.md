@@ -8,12 +8,12 @@ Adds a label with a number next to a ***Navigation Menu*** item or ***Region Dis
 
 ***1. Navigation Menu:***
 <p align="left">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/1.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="150" title="Example Navigation Menu">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/1.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="150" title="Example Navigation Menu">
 </p>
 
 ***2. Region Display Selector:***
 <p align="left">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/2.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Example Region Display Selector">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/2.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Example Region Display Selector">
 </p>
 
 ## Install
@@ -28,7 +28,7 @@ to your application.
 ***For Example: SET_AJAX***
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/1.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/1.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
 :exclamation: **Point:** ***"On Load: After Footer (page template footer)"***
@@ -45,7 +45,7 @@ END;
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/2.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/2.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 
@@ -55,7 +55,7 @@ END;
 ***For Example: COUNT_TEST***
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/3.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/3.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
 :exclamation: **Point:** ***"Ajax Callback: Run this application process when requested by a page process"***
@@ -81,7 +81,7 @@ END;
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/4.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/4.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 2. Registry Application Process in **SET_AJAX**
@@ -97,7 +97,7 @@ END;
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/5.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/5.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 3. Add to **Navigation Menu**
@@ -109,7 +109,7 @@ COUNT_TEST js-three-quarters-loader
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 4. Add to **Region Display Selector**
@@ -121,7 +121,7 @@ Title of your Region must look like
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/7.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/7.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 ## WARNING
