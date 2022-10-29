@@ -114,7 +114,7 @@ COUNT_TEST js-three-quarters-loader
 
 4. Add to **Region Display Selector**
 
-Title of your Region must look like 
+Title of your Region must look like:
 
 ```
 <div class="COUNT_TEST js-three-quarters-loader">Test Label</div>
