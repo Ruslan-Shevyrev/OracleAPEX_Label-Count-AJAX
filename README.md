@@ -49,7 +49,7 @@ END;
 </p>
 
 
-## Use
+## How to use
 1. Create Application Process (AJAX)
 
 ***For Example: COUNT_TEST***
