@@ -13,7 +13,7 @@ Adds a label with a number next to a ***Navigation Menu*** item or ***Region Dis
 
 ***2. Region Display Selector:***
 <p align="left">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/2.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Example Region Display Selector">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/2.%20Examle%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Example Region Display Selector">
 </p>
 
 ## Install
@@ -28,7 +28,7 @@ to your application.
 ***For Example: SET_AJAX***
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/1.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/1.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
 :exclamation: **Point:** ***"On Load: After Footer (page template footer)"***
