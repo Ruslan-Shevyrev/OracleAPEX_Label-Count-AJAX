@@ -45,7 +45,7 @@ END;
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/2.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/2.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 
@@ -55,7 +55,7 @@ END;
 ***For Example: COUNT_TEST***
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/3.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/3.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application process">
 </p>
 
 :exclamation: **Point:** ***"Ajax Callback: Run this application process when requested by a page process"***
@@ -64,7 +64,7 @@ Code
 
 ```
 DECLARE
-    COUNT_TEST  NUMBER;
+	COUNT_TEST  NUMBER;
 BEGIN
 
 SELECT 1
