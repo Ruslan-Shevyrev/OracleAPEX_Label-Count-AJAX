@@ -74,8 +74,8 @@ SELECT 1
 /*Write your query here*/
 --DBMS_LOCK.SLEEP(5); --for Test only
 
-    htp.p('[{'||
-           '"COUNT_TEST": '||COUNT_TEST||
+	htp.p('[{'||
+		'"COUNT_TEST": '||COUNT_TEST||
            '}]');
 END;
 ```
