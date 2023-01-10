@@ -68,8 +68,8 @@ DECLARE
 BEGIN
 
 SELECT 1
-    INTO COUNT_TEST
-    FROM DUAL;
+	INTO COUNT_TEST
+	FROM DUAL;
 
 /*Write your query here*/
 --DBMS_LOCK.SLEEP(5); --for Test only
