@@ -76,7 +76,7 @@ SELECT 1
 
 	htp.p('[{'||
 		'"COUNT_TEST": '||COUNT_TEST||
-           '}]');
+		'}]');
 END;
 ```
 
