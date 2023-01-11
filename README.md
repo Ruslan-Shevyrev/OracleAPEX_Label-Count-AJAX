@@ -92,7 +92,7 @@ BEGIN
 	HTP.p (   'addNavigationBadgeLoader();');
 	HTP.p (   'addNavigationBadge(''COUNT_TEST'');');
 	--register your AJAX Process here
-    HTP.p ('</script>');
+	HTP.p ('</script>');
 END;
 ```
 
