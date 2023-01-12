@@ -81,7 +81,7 @@ END;
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/4.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/4.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 2. Registry Application Process in **SET_AJAX**
