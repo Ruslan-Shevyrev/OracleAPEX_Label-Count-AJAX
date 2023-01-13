@@ -97,7 +97,7 @@ END;
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/5.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/5.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 3. Add to **Navigation Menu**
@@ -109,7 +109,7 @@ COUNT_TEST js-three-quarters-loader
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/6.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 4. Add to **Region Display Selector**
