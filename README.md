@@ -121,7 +121,7 @@ Title of your Region must look like:
 ```
 
 <p align="center">
-  <img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/7.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
+	<img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/7.%20Count-Label-Oracle-APEX-AJAX.png" width="350" title="Application code">
 </p>
 
 ## WARNING
@@ -131,7 +131,7 @@ Do not add the same class to Navigation Menu and Region Display Selector at the 
 ## Example
 
 <table>
-  <tr>
+	<tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/Example-Navigation_Menu.gif" title="Navigation Menu Example"></td>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/Example-Region_Display_Selector.gif" title="Region Display Selector Example"></td>
   </tr>
