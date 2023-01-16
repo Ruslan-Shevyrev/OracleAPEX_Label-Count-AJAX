@@ -134,7 +134,7 @@ Do not add the same class to Navigation Menu and Region Display Selector at the 
 	<tr>
 		<td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/Example-Navigation_Menu.gif" title="Navigation Menu Example"></td>
 		<td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/MediaFilesToGitHub/blob/master/OracleApex-Label-Count-AJAX/media/Example-Region_Display_Selector.gif" title="Region Display Selector Example"></td>
-  </tr>
+	</tr>
 </table>
 
 <table>
