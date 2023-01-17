@@ -138,7 +138,7 @@ Do not add the same class to Navigation Menu and Region Display Selector at the 
 </table>
 
 <table>
-  <tr>
+	<tr>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logo_mini.gif" title="logo"></td>
     <td valign="center" width="49%"><img src="https://github.com/Ruslan-Shevyrev/Ruslan-Shevyrev/blob/main/logoRS/logoRS_FULL.png" title="RuslanShevyrev"></td>
   </tr>
